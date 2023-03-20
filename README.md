@@ -1,14 +1,28 @@
 # C-_Calender-Logic
-I made this while up for 23 hours (now 24 at the time I'm writing this description)
-Documentation & Q&A & Readme:
+
+Readme:
+I made this while up for 23 hours (now 24 at the time I'm writing this)
+sidenote about hours: Hope you like millitary time! ehh, you can program a am/pm bool logic it takes like an 
+if statement and another int and bool at worst...I believe in you. :)
+
+The reason I didn't want to tie anything to incrementing Seconds, is so you can control what does. If you want to plug this into a more complex system
+for some reason, you can if...you want i guess. 
+
+Documentation:
 Year, Month, Week, Day, Hour, Minutes, Seconds, are pretty self explanitory, However...
 
 Month_4YR, standing for Month_forYearRollover, is the amount of Months needed to increment the Year integer
+
 D_4WR, Standing for Days_forWeekRollover, is the amount of days that make up a week.
+
 H_ID, Standing for Hours_InDay, is the amount of Hours needed to increment the Day integer
+
 M_IH, Standing for Minutes_InHours, is the amount of Minutes needed increment the Hour integer
+
 S_IM, Standing for Seconds_InMinutes, is the amount of Seconds to increment the Minutes integer
+
 DIM, standing for Days in Month, its the amount of days that have to pass to increment the Month integer
+
 DOW, Stands for Day of week
 
 sidenote about hours: Hope you like millitary time! ehh, you can program a am/pm bool logic it takes like an 
@@ -16,6 +30,8 @@ if statement and another int and bool at worst...I believe in you. :)
 
 The reason I didn't want to tie anything to incrementing Seconds, is so you can control what does. If you want to plug this into a more complex system
 for some reason, you can if...you want i guess. 
+
+Q&A:
 
 Q:What's this useful for?
 
