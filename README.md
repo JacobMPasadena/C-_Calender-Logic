@@ -1,4 +1,4 @@
-# Cpp_Calender-Logic
+# Cpp_Calendar-Logic
 
 Readme:
 I made this while up for 23 hours (now 24 at the time I'm writing this)
