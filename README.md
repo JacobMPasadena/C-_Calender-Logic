@@ -2,10 +2,11 @@
 
 Readme:
 I made this while up for 23 hours (now 24 at the time I'm writing this)
-sidenote about hours: Hope you like millitary time! ehh, you can program a am/pm bool logic it takes like an 
+
+sidenote about hours (the variable): Hope you like millitary time! ehh, you can program a am/pm bool logic it takes like an 
 if statement and another int and bool at worst...I believe in you. :)
 The reason I didn't want to tie anything to incrementing Seconds, is so you can control what does. If you want to plug this into a more complex system
-for some reason, you can if...you want i guess. 
+for some reason, you can if...you want i guess... 
 
 Documentation:
 Year, Month, Week, Day, Hour, Minutes, Seconds, are pretty self explanitory, However...
@@ -41,7 +42,7 @@ in the way it does in the real world.
 
 Q:Why didn't you add millaseconds,microsecond,nanoseconds?
 
-A: Do that yourself if you need to be that anal 'bout it. Seconds work just fine.
+A: Do that yourself if you need to be that anal 'bout it. Seconds work just fine. I'd also assume all you'd really do with this is tie it to some that runs every second.
 
 Q: Will you fix Problems.
 
