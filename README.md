@@ -47,3 +47,7 @@ A: Do that yourself if you need to be that anal 'bout it. Seconds work just fine
 Q: Will you fix Problems.
 
 A: I made this while have being up for 23 Hours, I dont feel bad if I missed something, I might, but don't hold me to it. :)
+
+Q: Have you tested it?
+
+A: ...
