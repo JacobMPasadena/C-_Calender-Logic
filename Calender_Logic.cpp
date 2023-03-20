@@ -45,7 +45,6 @@ void increase_Day(){
     {
         increase_Month();
         Day = 1;
-        DOW = 1;
         Week = 1;
     }
 }
