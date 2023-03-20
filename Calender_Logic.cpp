@@ -4,7 +4,7 @@ int Month = 1;
 int Month_4YR;
 int Week = 1;
 int Day = 1;
-int DOW =1;
+int DOW =0;
 int DIM;
 int D_4WR;
 int Hour;
@@ -38,7 +38,7 @@ void increase_Day(){
     if (DOW > D_4WR)
     {
         increase_Week();
-        DOW = 1;
+        DOW = 0;
     }
     
     if (Day > DIM)
