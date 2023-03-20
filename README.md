@@ -1,6 +1,6 @@
 # C-_Calender-Logic
 I made this while up for 23 hours (now 24 at the time I'm writing this description)
-/*DOCUMENTATION & Q&A & Readme:
+Documentation & Q&A & Readme:
 Year, Month, Week, Day, Hour, Minutes, Seconds, are pretty self explanitory, However...
 
 Month_4YR, standing for Month_forYearRollover, is the amount of Months needed to increment the Year integer
@@ -35,4 +35,3 @@ A: Do that yourself if you need to be that anal 'bout it. Seconds work just fine
 Q: Will you fix Problems.
 
 A: I made this while have being up for 23 Hours, I dont feel bad if I missed something, I might, but don't hold me to it. :)
-*/
