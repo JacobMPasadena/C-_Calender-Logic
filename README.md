@@ -23,7 +23,7 @@ S_IM, Standing for Seconds_InMinutes, is the amount of Seconds to increment the 
 
 DIM, standing for Days in Month, its the amount of days that have to pass to increment the Month integer
 
-DOW, Stands for Day of week, its there so you can in theory, use its value to, somewhere else, in like a switch statement.
+DOW, Stands for Day of week, its there so you can in theory, use its value to, somewhere else, in like..... a switch statement.
 
 
 
