@@ -4,7 +4,6 @@ Readme:
 I made this while up for 23 hours (now 24 at the time I'm writing this)
 sidenote about hours: Hope you like millitary time! ehh, you can program a am/pm bool logic it takes like an 
 if statement and another int and bool at worst...I believe in you. :)
-
 The reason I didn't want to tie anything to incrementing Seconds, is so you can control what does. If you want to plug this into a more complex system
 for some reason, you can if...you want i guess. 
 
@@ -25,17 +24,13 @@ DIM, standing for Days in Month, its the amount of days that have to pass to inc
 
 DOW, Stands for Day of week
 
-sidenote about hours: Hope you like millitary time! ehh, you can program a am/pm bool logic it takes like an 
-if statement and another int and bool at worst...I believe in you. :)
 
-The reason I didn't want to tie anything to incrementing Seconds, is so you can control what does. If you want to plug this into a more complex system
-for some reason, you can if...you want i guess. 
 
 Q&A:
 
 Q:What's this useful for?
 
-A: Not having to write this basic as fuck file for tracking time past, it takes prescious minutes off your life everytime you forget where
+A: Not having to write this basic as fuck logic for tracking time past, it takes prescious minutes off your life everytime you forget where
 you placed a file that did something to this effect.
 
 Q:Why didn't you make the values by default work how this stuff works in the real world?
