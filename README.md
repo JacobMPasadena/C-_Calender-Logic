@@ -23,7 +23,7 @@ S_IM, Standing for Seconds_InMinutes, is the amount of Seconds to increment the 
 
 DIM, standing for Days in Month, its the amount of days that have to pass to increment the Month integer
 
-DOW, Stands for Day of week
+DOW, Stands for Day of week, its there so you can in theory, use its value to, somewhere else, in like a switch statement.
 
 
 
@@ -38,7 +38,7 @@ Q:Why didn't you make the values by default work how this stuff works in the rea
 
 A: Because I care little for assmuning what you will use this for, I think this can also help poeple making creative works, and make them put thought into
 how date and time works in said work and make the programers have to be not in a coma when importing stuff if they want it to work
-in the way it does in the real world. 
+in the way it does in the real world.
 
 Q:Why didn't you add millaseconds,microsecond,nanoseconds?
 
@@ -51,3 +51,5 @@ A: I made this while have being up for 23 Hours, I dont feel bad if I missed som
 Q: Have you tested it?
 
 A: ...
+
+And yes I know its not the most efficient thing in the world :)
