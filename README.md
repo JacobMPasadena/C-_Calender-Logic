@@ -18,17 +18,21 @@ The reason I didn't want to tie anything to incrementing Seconds, is so you can 
 for some reason, you can if...you want i guess. 
 
 Q:What's this useful for?
+
 A: Not having to write this basic as fuck file for tracking time past, it takes prescious minutes off your life everytime you forget where
 you placed a file that did something to this effect.
 
 Q:Why didn't you make the values by default work how this stuff works in the real world?
+
 A: Because I care little for assmuning what you will use this for, I think this can also help poeple making creative works, and make them put thought into
 how date and time works in said work and make the programers have to be not in a coma when importing stuff if they want it to work
 in the way it does in the real world. 
 
 Q:Why didn't you add millaseconds,microsecond,nanoseconds?
+
 A: Do that yourself if you need to be that anal 'bout it. Seconds work just fine.
 
 Q: Will you fix Problems.
+
 A: I made this while have being up for 23 Hours, I dont feel bad if I missed something, I might, but don't hold me to it. :)
 */
